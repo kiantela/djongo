@@ -1,0 +1,23 @@
+.t1 {
+    font-size: 2em;
+    color: #333;
+    font-weight: bold;
+
+
+}
+
+.t2 {
+    font-size: 1.5em;
+    color: #666;
+}
+
+.p1 {
+    font-size: 1em;
+    color: #999;
+}
+nav{
+    background-color: #f8f8f8;
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+    height: 50px;
+}
